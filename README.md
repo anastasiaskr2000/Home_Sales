@@ -1,5 +1,7 @@
 # Home_Sales
-## Using SparkSQL to determine key metrics about home sales data, I will use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+
+Using SparkSQL to determine key metrics about home sales data, I will use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+
 This project will answer the following questions: 
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
